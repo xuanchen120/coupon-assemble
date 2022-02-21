@@ -23,7 +23,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "XuanChen\\couponAssemble\\ServiceProvider"
+        "XuanChen\\CouponAssemble\\ServiceProvider"
       ]
     }
   }
